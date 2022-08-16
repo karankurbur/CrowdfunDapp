@@ -12,5 +12,4 @@ yarn.lock
 
 typechain/*
 
-
-
+.DS_Store
